@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/arduino.atom.xml" rel="self"></link><id>./</id><updated>2017-05-10T00:07:00+08:00</updated><entry><title>Arduino</title><link href="./Arduino.html" rel="alternate"></link><published>2017-05-10T00:07:00+08:00</published><updated>2017-05-10T00:07:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-05-10:./Arduino.html</id><summary type="html">&lt;p&gt;想了解Arduino Uno板的實驗,請到40423222的個人網誌&lt;/p&gt;
+
+
+&lt;h3&gt;有詳細的Arfuino說明&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://40423222.github.io/2017springcd_hw/blog/category/arduino.html"&gt;40423222的個人網誌&lt;/a&gt;&lt;/p&gt;</summary><category term="notes"></category><category term="w8"></category></entry></feed>
